@@ -1437,16 +1437,3 @@ ul.portfolio li.active {
     background-color: #08a6f3;
 }
 
-/* UiPasta Credit */
-
-.uipasta-credit {
-}
-
-.uipasta-credit a {
-    color: #24b662;
-    font-weight: 600;
-}
-
-.uipasta-credit a:hover {
-    color: #ffffff;
-}
