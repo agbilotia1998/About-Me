@@ -71,7 +71,7 @@
 
         $(window).load(function () {
             $(".typing").typed({
-                strings: ["I am a full stack developer.", "I Live in Allahabad."], /* You can change the home section typing text from
+                strings: ["I am a full stack developer.", "I Love Web Development."], /* You can change the home section typing text from
                  here and do not use "&" use "and" */
                 typeSpeed: 50
             });
